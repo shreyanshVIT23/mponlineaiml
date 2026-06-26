@@ -1,4 +1,4 @@
-# MP Online AI ML Assignments & Projectory
+# MP Online AI ML Assignments & Project Directory
 
 This repository contains all the daily assignments and Projects given by Dr. Nishant Shrivastava Sir,  assigned to us throughout the course of this internship.
 
@@ -16,4 +16,5 @@ The main project content is divided into 2 directories:
 
 ## Author
 _Name:_ Shreyansh Dipak Kumar Pande
+
 _Registration Number:_ 23BCE10701
