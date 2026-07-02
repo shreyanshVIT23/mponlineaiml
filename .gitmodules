@@ -1,0 +1,3 @@
+[submodule "Projects/Car Prediction Render Deploy"]
+	path = Projects/Car Prediction Render Deploy
+	url = https://github.com/shreyanshVIT23/CarPricePredictionWebsite.git
