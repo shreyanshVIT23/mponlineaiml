@@ -1,3 +1,6 @@
 [submodule "Projects/Car Prediction Render Deploy"]
 	path = Projects/Car Prediction Render Deploy
 	url = https://github.com/shreyanshVIT23/CarPricePredictionWebsite.git
+[submodule "Projects/Iris Prediction Docker Render Deploy"]
+	path = Projects/Iris Prediction Docker Render Deploy
+	url = https://github.com/shreyanshVIT23/IrisDatsetModelDockerDeployRender.git
