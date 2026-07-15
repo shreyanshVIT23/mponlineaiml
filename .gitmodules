@@ -4,3 +4,6 @@
 [submodule "Projects/Iris Prediction Docker Render Deploy"]
 	path = Projects/Iris Prediction Docker Render Deploy
 	url = https://github.com/shreyanshVIT23/IrisDatsetModelDockerDeployRender.git
+[submodule "Projects/Capstone Project-RAG Chatbot"]
+	path = Projects/Capstone Project-RAG Chatbot
+	url = https://github.com/shreyanshVIT23/RAGChatbot.git
